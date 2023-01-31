@@ -9,7 +9,7 @@ Ideally, I would love to have designed this in Adobe InDesign which would be abl
 * PDF Tool.pdf - File should display all layers correctly in any PDF readers and browser with Adobe Reader plug-ins. Otherwise, it can be run in Internet Explorer compatible mode on Microsoft Edge. 
 * PDF Tool Script.txt - Main script used to control the layers and buttons on the tool.
 
-Huge thanks to random YouTube stranger that I cannot seem to locate.
+Huge thanks to random YouTube stranger that I cannot seem to locate for inspiring this project.
 
 Preview of the tool structure:
 
