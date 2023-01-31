@@ -7,7 +7,7 @@ The material was needed as a quick solution for 6 months to 1 year before new sy
 Ideally, I would love to have designed this in Adobe InDesign which would be able to easily map all the layers and buttons.
 
 * PDF Tool.pdf - File should display all layers correctly in any PDF readers and browser with Adobe Reader plug-ins. Otherwise, it can be run in Internet Explorer compatible mode on Microsoft Edge. 
-* PDF Tool Script.txt - Main script used to control the layers and buttons on the tool.
+* PDF Tool Script.txt - Snippet of script used to control the layers and buttons on the tool.
 
 Huge thanks to random YouTube stranger that I cannot seem to locate for inspiring this project.
 
