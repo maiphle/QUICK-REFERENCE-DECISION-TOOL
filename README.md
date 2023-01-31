@@ -10,3 +10,8 @@ Ideally, I would love to have designed this in Adobe InDesign which would be abl
 * PDF Tool Script.txt - Main script used to control the layers and buttons on the tool.
 
 Huge thanks to random YouTube stranger that I cannot seem to locate.
+
+Preview of the tool structure:
+
+<img src="/images/IMG Layers.png" width="571" height="250"/>
+<img src="/images/IMG Tool Script.png" width="571" height="250"/>
