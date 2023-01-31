@@ -13,5 +13,4 @@ Huge thanks to random YouTube stranger that I cannot seem to locate.
 
 Preview of the tool structure:
 
-<img src="/images/IMG Layers.png" width="571" height="250"/>
-<img src="/images/IMG Tool Script.png" width="571" height="250"/>
+<img src="/images/IMG Layers.png"/> <img src="/images/IMG Tool Script.png"/>
